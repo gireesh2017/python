@@ -1,3 +1,3 @@
 # python
 
-![](1.gif)
+![Gif image](Gif-images/1.gif)
